@@ -4,21 +4,13 @@
 
 #### By _**Michael Wells**_
 
-## Description
 
-_ _
-
-|Behavior|Input|Output|
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
 
 ## Setup/Installation Requirements
 
 * clone and open the file locally
 * _ in project file, in terminal run:_
->$app.rb
+>$palindrome_script.rb
 
 
 
