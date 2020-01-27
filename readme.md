@@ -1,6 +1,6 @@
-# _ _
+# _Palindrome Checker_
 
-#### _  _
+#### _check if a word is a Palindrome_
 
 #### By _**Michael Wells**_
 
@@ -16,12 +16,9 @@ _ _
 
 ## Setup/Installation Requirements
 
-* _Launch <https://michael-wayne-wells.github.io/(---------)> in your browser._
-### OR ###
 * clone and open the file locally
-* _in terminal run:_
->$git clone https://github.com/Michael-Wayne-Wells/(------).git
-* _open index.html in your browser._
+* _ in project file, in terminal run:_
+>$app.rb
 
 
 
